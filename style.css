@@ -47,8 +47,8 @@ h1 {
 
 /* Hình ảnh sản phẩm */
 .product-image {
-    width: 500px;
-    height: 360px;
+    width: 400px;
+    height: 260px;
     object-fit: contain;
     margin: 0 auto 5px;
     display: block;
